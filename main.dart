@@ -31,4 +31,17 @@ void main() {
 
   //======================================
   //======================================
+
+  print(num + number);
+  print(num - number);
+  print(num * number);
+  print(num / number);
+  print(num % number);
+  print(num ~/ number); //Divide, returning an integer result
+
+  num++; // postincrement num = num + 1
+  number--; // postdecrement number = number - 1
+
+  ++num; // preincrement
+  --number; //predecrement
 }
