@@ -44,4 +44,12 @@ void main() {
 
   ++num; // preincrement
   --number; //predecrement
+
+  //======================================
+  //======================================
+
+  int a = 5;
+  int b = 7;
+  var result = 2 * (a + b);
+  print(result);
 }
