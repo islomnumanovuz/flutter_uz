@@ -5,3 +5,8 @@
 ## Data type
 ## Numbers
 ## Arithmetic operator
+
+</br>
+### About personal brand
+- Linkedin
+- Instagram
